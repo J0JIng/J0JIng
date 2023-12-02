@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 I'm a undergraduate at NTU, passionate in learning more about AI!
+💬 I'm a undergraduate at NTU, passionate in learning more about AI !
 
 
 <!--
