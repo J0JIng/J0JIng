@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💬 I'm a undergraduate at NTU, passionate in learning more about AI!
+
+
 <!--
 **J0JIng/J0JIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
